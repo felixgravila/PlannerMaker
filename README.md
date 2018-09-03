@@ -30,7 +30,7 @@ or
 
 `python makeplanner.py [year:[2018-2100]] [month:[1-12]] [filename:string?]`
 
-###Example
+### Example
 
 ```
 $ ./makeplanner.py 2018 9
