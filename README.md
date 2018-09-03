@@ -1,9 +1,9 @@
 # PDF PLANNER MAKER
 
 Makes a monthly planner PDF based on template month, week and day pages as follows:
-* *Month overview* as first page
-* *Day Page* each day
-* *Week Review Page* after each Sunday
+* **Month overview** as first page
+* **Day Page** each day
+* **Week Review Page** after each Sunday
 
 ## Getting Started
 
